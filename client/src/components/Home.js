@@ -39,7 +39,35 @@ const Home = () => {
           href="https://github.com/CodeNinja04"
           target="_blank"
         >
-          Hemendra Sharma{" "}
+          Divyansh Sharma{" "}
+        </a>
+        <a
+          style={{ color: "#00BFFF" }}
+          href="https://github.com/CodeNinja04"
+          target="_blank"
+        >
+          Aaryan Panda{" "}
+        </a>
+        <a
+          style={{ color: "#00BFFF" }}
+          href="https://github.com/CodeNinja04"
+          target="_blank"
+        >
+          Arnish Bhardwaj{" "}
+        </a>
+        <a
+          style={{ color: "#00BFFF" }}
+          href="https://github.com/CodeNinja04"
+          target="_blank"
+        >
+          Ananya Aditi{" "}
+        </a>
+        <a
+          style={{ color: "#00BFFF" }}
+          href="https://github.com/CodeNinja04"
+          target="_blank"
+        >
+          Prachurya Priyadarshini{" "}
         </a>
       </p>
     </div>
